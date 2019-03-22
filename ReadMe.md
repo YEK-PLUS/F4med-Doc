@@ -5,9 +5,9 @@
 
 HTTP://F4MED.COM CMS SCRIPT
 
-Start : 05.10.2018
-Beta  : 04.11.2018
-Final : 02.01.2019
+Start | Beta | Final
+:--:--:
+05.10.2018|04.11.2018|02.01.2019
 
 Modil Response             |  Desktop
 :-------------------------:|:-------------------------:
