@@ -5,7 +5,7 @@
 
 HTTP://F4MED.COM CMS SCRIPT
 
-	Start	|	Beta	|	Final	
+	Start	|	Beta	|	Final
 :----------:|:---------:|:---------:
 05.10.2018	|04.11.2018	|02.01.2019
 
